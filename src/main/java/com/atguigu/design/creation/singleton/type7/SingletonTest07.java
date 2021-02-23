@@ -12,6 +12,9 @@ public class SingletonTest07 {
     }
 }
 
+/**
+ * 1、这种方式采用了
+ */
 class Singleton {
     //1、私有化构造器
     private Singleton() {
