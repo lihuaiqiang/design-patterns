@@ -21,3 +21,6 @@ Nsrc/main/java/com/atguigu/design/creation/singleton/type4/SingletonTest04.java
 Nsrc/main/java/com/atguigu/design/creation/singleton/type1/SingletonTest01.java,2\e\2e1a1d6ab2d0b8e86f538106ad4854b92ca80ce9
 ~
 Nsrc/main/java/com/atguigu/design/creation/singleton/type2/SingletonTest02.java,1\a\1a0f9735eeb512e0d2b956932d3b7ff6e4f2f602
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
