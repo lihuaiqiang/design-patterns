@@ -24,3 +24,21 @@ Nsrc/main/java/com/atguigu/design/creation/singleton/type2/SingletonTest02.java
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+q
+Asrc/main/java/com/atguigu/design/structural/adapter/MainTest.java,9\e\9ee8a6e6551c5821e1b569793409e2897a816969
+
+Osrc/main/java/com/atguigu/design/structural/adapter/obj/ObjAdapterMainTest.java,6\f\6fa266e1c6896cbc05d82d05f4672bb992e33937
+o
+?src/main/java/com/atguigu/design/structural/adapter/Player.java,1\b\1ba87554b3802069513bc1b63f07277b07821185
+s
+Csrc/main/java/com/atguigu/design/structural/adapter/Translator.java,3\5\354b9cf1404cd48758e4793f73cf850d4d0863a2
+w
+Gsrc/main/java/com/atguigu/design/structural/adapter/ZhJpTranslator.java,a\f\af74047c43cd9125aa4459a8126adf2178261482
+q
+Asrc/main/java/com/atguigu/design/structural/adapter/MvPlayer.java,1\6\165ca81cb6fbe0eb36a95a5521ed1cc34df9827e
+€
+Psrc/main/java/com/atguigu/design/structural/adapter/clazz/JpMvPlayerAdapter.java,5\1\516477a22a962dae261fa7ba7e724b7e5f8a082e
+~
+Nsrc/main/java/com/atguigu/design/structural/adapter/obj/JpMvPlayerAdapter.java,4\5\45b5dc362539f87c5229fdc93f15521f30c7a00e
+ƒ
+Ssrc/main/java/com/atguigu/design/structural/adapter/clazz/ClazzAdapterMainTest.java,c\e\ce600b1616118b89b52bfef5086bb960422c38e3
